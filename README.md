@@ -2,7 +2,9 @@
 Linear Regression Model (Python3) based on large oceanic dataset. (bottle.csv)
 
 # Background Info
-Dataset is LARGE (~864864 rows) for the problem is over 60 years of oceanic data obtained on https://www.kaggle.com/rtatman/datasets-for-regression-analysis
+Dataset is LARGE (~864864 rows) for the problem is over 60 years of oceanic data obtained on https://www.kaggle.com/rtatman/datasets-for-regression-analysis. 
+***Please Download the dataset from above in order to use the program correctly*** 
+
 Problem to be solved from linear regression Is there a relationship between water salinity & water temperature? 
 Can you predict the water temperature (y) based on salinity(x)? Target outcome water temp (ypred)
 
